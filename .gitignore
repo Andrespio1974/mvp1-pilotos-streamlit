@@ -1,0 +1,14 @@
+# entornos / cachés
+.venv/
+__pycache__/
+*.pyc
+
+# VSCode
+.vscode/
+
+# streamlit local (secrets locales NO deben subirse)
+.streamlit/secrets.toml
+
+# sistema
+.DS_Store
+Thumbs.db
